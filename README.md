@@ -68,7 +68,7 @@ A comprehensive data analysis and visualization platform that combines natural l
 
 #### **1. Clone the Repository**
 ```bash
-git clone https://github.com/KrishnaSadar/KurukshetraHackthon.git
+git clone (https://github.com/Anand749/Roboco-LLM-Based-Data-Analyst-Assistant.git)
 cd KurukshetraHackthon
 ```
 
